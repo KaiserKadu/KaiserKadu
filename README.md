@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiserkadu&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaiserkadu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiserkadu&show_icons=true&theme=dark&locale=en" alt="kaiserkadu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiserkadu&show_icons=true&theme=flag-india&locale=en" alt="kaiserkadu" /></p>
