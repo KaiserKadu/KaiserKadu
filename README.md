@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **DSA and Backend Development**
 
-- 👨‍💻 All of my projects are available at [Right Here▶️](Right Here▶️)
+- 👨‍💻 All of my projects are available at [Right Here▶️]
 
 - 💬 Ask me about **Cross-Platform Dev,Gcloud ,Linux**
 
