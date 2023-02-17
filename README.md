@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiserkadu&label=Profile%20views&color=3fa796&style=plastic" alt="kaiserkadu" /> </p>
 
-- 🔭 I’m currently working on **Flutter,C++,Dart**
+- 🔭 I’m currently working on **DevOps,Flutter,C++,Dart**
 
-- 🌱 I’m currently learning **Flutter,DSA**
+- 🌱 I’m currently learning **DevOps,Flutter,DSA**
 
-- 👯 I’m looking to collaborate on **DSA and Backend Development**
+- 👯 I’m looking to collaborate on **DevOps**
 
 - 👨‍💻 All of my projects are available at [Right Here▶️]
 
-- 💬 Ask me about **Cross-Platform Dev,Gcloud ,Linux**
+- 💬 Ask me about **DevOps,Cross-Platform Dev ,Linux Systems**
 
 - 📫 How to reach me **krish1kadu@gmail.com**
 
